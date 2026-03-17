@@ -299,4 +299,13 @@ See [ROADMAP.md](ROADMAP.md) for the full plan.
 
 ## License
 
-MIT © [Rishi-dev-afk](https://github.com/Rishi-dev-afk)
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+© 2026 [Archita Sen](https://github.com/ARCHITA-HUB27) and Contributors
+
+## 👥 Team Members
+
+- [Archita Sen]
+- [Bibhesh Nayak]
+- [Selina Mohanty]
+- [Afreen Kausar]
